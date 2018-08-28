@@ -1,6 +1,6 @@
 
 def levitation_quiz
-  answer = String,new
+  answer = " "
 
   until answer != "Wingardium Leviosa"
       puts "What is the spell that enacts levitation?"
